@@ -1,0 +1,10 @@
+Input_state,(1)SelectionSort,(2)InsertionSort,(3)BinaryInsertionSort,(4)RadixSort,(5)BubbleSort(6)ShakerSort,(7)ShellShort,(8)HeapSort,(9)MergeSort,(10)QuickSort
+
+ ********* N = 1000
+Random
+ ********* N = 5000
+Random
+ ********* N = 10000
+Random
+ ********* N = 50000
+Random
